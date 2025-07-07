@@ -89,7 +89,9 @@ If you believe:
 
 - Software infrastructure should be **public, not private**  
 - CI/CD should be **provable, not opaque**  
-- Pipelines should be **composable and decentralized**  
+- Pipelines should be **composable and decentralized**
+- Teams should be able to build publicly **without compromising security or exposing IP Rights**
+  
 
 Then you already believe in **Volt**.
 
